@@ -1,4 +1,4 @@
-# 📦 Supply Chain Analysis
+# 📦 Supply Chain Analysis| Dellivery Risk and Predictive Modelling 
 
 An end-to-end data analytics project that explores supply chain performance using Python and Machine Learning to uncover business insights and support data-driven decision-making.
 
