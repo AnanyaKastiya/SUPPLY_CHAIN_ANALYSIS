@@ -1,35 +1,53 @@
-# 📦 Supply Chain Analysis| Dellivery Risk and Predictive Modelling 
+# 📦 Supply Chain Analysis | Delivery Risk & Predictive Modelling
 
-An end-to-end data analytics project that explores supply chain performance using Python and Machine Learning to uncover business insights and support data-driven decision-making.
+An end-to-end data analytics project that analyzes supply chain performance, delivery delays, profitability, and operational risk using Python, Machine Learning, and Power BI.
 
-## 📌 Objectives
+## Project Highlights
 
-- Analyze sales, profit, and delivery performance
-- Identify operational bottlenecks
-- Detect delay patterns
-- Build predictive machine learning models
-- Provide actionable business recommendations
+- 📌 Analyzed **180K+ supply chain records** to identify delivery and profitability patterns
+- 📌 Performed **data cleaning, EDA, KPI analysis, and root cause analysis** across key operational dimensions
+- 📌 Built a **Random Forest model** for late-delivery risk prediction achieving **74% accuracy**
+- 📌 Developed an interactive **Power BI dashboard** for delivery performance, profitability, and risk analysis
+- 📌 Generated **business insights and recommendations** for improving supply chain performance
 
-## 🛠 Tech Stack
+## Project Overview
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
+The project covers:
 
-## 📊 Key Analysis
-
-- Data Cleaning & EDA
-- KPI Analysis
-- Profitability Analysis
-- Shipping & Delivery Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Delivery & Profitability Analysis
 - Root Cause Analysis
-- Machine Learning
+- Predictive Modelling
+- Risk Analysis
+- Power BI Dashboard
 - Business Insights
 
-## 👩‍💻 Author
+## Predictive Modelling
+
+Implemented and evaluated:
+
+- Random Forest Classifier
+- SMOTE for class imbalance
+
+Model performance was evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+
+## Power BI Dashboard
+
+Built an interactive dashboard covering:
+
+- Executive Overview
+- Delivery Performance & Root Cause Analysis
+- Profitability & Risk
+
+## Tech Stack
+
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Random Forest | SMOTE | Power BI | DAX | Jupyter Notebook
+
+## Author
 
 **Ananya Kastiya**  
